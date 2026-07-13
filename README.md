@@ -1,5 +1,7 @@
 # Hi, I'm Shawn Deng
 
+<!-- GitHub profile README -->
+
 Full-stack developer building web applications, automation tools, and AI-assisted workflows.
 I care about shipping practical products, clean engineering, and using AI to move faster without losing control.
 
