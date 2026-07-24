@@ -20,6 +20,14 @@ I care about shipping practical products, clean engineering, and using AI to mov
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
+### AI Development Tools
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white)
+![Kiro](https://img.shields.io/badge/Kiro-5B5BFF?logo=kiro&logoColor=white)
+
 ## Featured Open Source Work
 
 - **[apitable/apitable](https://github.com/apitable/apitable)** - Open-source Airtable alternative for collaborative databases and no-code workflows.
