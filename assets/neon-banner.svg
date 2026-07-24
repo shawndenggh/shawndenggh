@@ -1,0 +1,65 @@
+<svg width="1600" height="300" viewBox="0 0 1600 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Shawn Deng — AI Coding</title>
+  <desc id="desc">A neon cyberpunk banner with animated grid lines, scan light, particles, and terminal text.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.48" stop-color="#11114A"/>
+      <stop offset="1" stop-color="#071A35"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="180" y1="240" x2="1410" y2="40" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#F472B6"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#67E8F9" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="textGlow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="64" height="40" patternUnits="userSpaceOnUse">
+      <path d="M64 0H0V40" stroke="#38BDF8" stroke-opacity="0.13"/>
+    </pattern>
+    <radialGradient id="halo" cx="0" cy="0" r="1" gradientTransform="translate(820 142) rotate(90) scale(170 600)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1600" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1600" height="300" rx="18" fill="url(#halo)"/>
+  <rect y="104" width="1600" height="196" fill="url(#grid)"/>
+
+  <g opacity="0.45" filter="url(#softGlow)">
+    <path d="M-40 250C260 145 370 290 650 180C930 70 1110 230 1640 78" stroke="url(#glow)" stroke-width="2"/>
+    <path d="M-40 268C260 163 370 308 650 198C930 88 1110 248 1640 96" stroke="url(#glow)" stroke-opacity="0.35" stroke-width="1"/>
+  </g>
+
+  <g fill="#67E8F9">
+    <circle cx="150" cy="75" r="2"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="330" cy="220" r="2"><animate attributeName="opacity" values="1;0.2;1" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1210" cy="76" r="2"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="1390" cy="205" r="2"><animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g font-family="monospace" letter-spacing="2">
+    <text x="800" y="116" fill="#67E8F9" font-size="15" text-anchor="middle" opacity="0.8">&gt; AI_CODING_WORKFLOW / ONLINE</text>
+    <text x="800" y="177" fill="white" font-size="48" font-weight="700" text-anchor="middle" filter="url(#textGlow)">SHAWN DENG</text>
+    <text x="800" y="211" fill="#C4B5FD" font-size="16" text-anchor="middle">FULL-STACK BUILDER • AGENT-READY SKILLS • SHIP BETTER CODE</text>
+    <text x="800" y="252" fill="#22D3EE" font-size="13" text-anchor="middle">$ agent.execute(<tspan fill="#F9A8D4">&quot;turn_ideas_into_products&quot;</tspan>)<tspan fill="#E2E8F0">_</tspan></text>
+  </g>
+
+  <rect x="0" y="0" width="1600" height="3" fill="url(#scan)">
+    <animate attributeName="y" values="0;297;0" dur="5s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="0.75" y="0.75" width="1598.5" height="298.5" rx="17.25" stroke="url(#glow)" stroke-opacity="0.65" stroke-width="1.5"/>
+</svg>

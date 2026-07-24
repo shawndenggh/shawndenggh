@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Shawn%20Deng&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-stack%20developer%20%7C%20AI-assisted%20builder&descAlignY=58&descSize=18" alt="Shawn Deng dynamic header" width="100%" />
+<img src="./assets/neon-banner.svg" alt="Shawn Deng neon cyberpunk banner" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=800&lines=Turn+coding+experience+into+agent-ready+skills.;Build+practical+products+with+AI.;Ship+clean+code+with+focused+context." alt="Typing animation" />
 
