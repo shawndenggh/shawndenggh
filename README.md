@@ -23,10 +23,10 @@ I care about shipping practical products, clean engineering, and using AI to mov
 ### AI Development Tools
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-000000?logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white)
-![Kiro](https://img.shields.io/badge/Kiro-5B5BFF?logo=kiro&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-10A37F?logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-8957E5?logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-007ACC?logo=cursor&logoColor=white)
+![Kiro](https://img.shields.io/badge/Kiro-F59E0B?logoColor=white)
 
 ## Featured Open Source Work
 
