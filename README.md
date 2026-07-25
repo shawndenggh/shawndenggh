@@ -27,6 +27,7 @@ AI to move faster without losing control.
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-8957E5?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-007ACC?style=for-the-badge&logo=cursor&logoColor=white)
 ![Kiro](https://img.shields.io/badge/Kiro-F59E0B?style=for-the-badge&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
 
 </div>
 
