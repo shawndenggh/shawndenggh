@@ -56,9 +56,9 @@ AI to move faster without losing control.
 
 ## Featured Work
 
-- **[apitable/apitable](https://github.com/apitable/apitable)** — Open-source Airtable alternative for collaborative databases and no-code workflows.
+- **[apitable](https://github.com/apitable/apitable)** — Open-source Airtable alternative for collaborative databases and no-code workflows.
 - **[vika.java](https://github.com/vikadata/vika.java)** — Java SDK for Vika / APITable API integration.
-- **[shawndenggh/skills](https://github.com/shawndenggh/skills)** — Agent-ready skills for AI coding workflows.
+- **[skills](https://github.com/shawndenggh/skills)** — Agent-ready skills for AI coding workflows.
 
 ## Current Focus
 
