@@ -23,32 +23,7 @@ AI to move faster without losing control.
 
 ## AI Development Stack
 
-<p>
-  <img
-    src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white"
-    alt="Claude Code"
-  />
-  <img
-    src="https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white"
-    alt="Codex"
-  />
-  <img
-    src="https://img.shields.io/badge/GitHub%20Copilot-8957E5?style=for-the-badge&logo=githubcopilot&logoColor=white"
-    alt="GitHub Copilot"
-  />
-  <img
-    src="https://img.shields.io/badge/Cursor-007ACC?style=for-the-badge&logo=cursor&logoColor=white"
-    alt="Cursor"
-  />
-  <img
-    src="https://img.shields.io/badge/Kiro-F59E0B?style=for-the-badge&logoColor=white"
-    alt="Kiro"
-  />
-  <img
-    src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white"
-    alt="Grok"
-  />
-</p>
+<p><img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"> <img src="https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Codex"> <img src="https://img.shields.io/badge/GitHub%20Copilot-8957E5?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"> <img src="https://img.shields.io/badge/Cursor-007ACC?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"> <img src="https://img.shields.io/badge/Kiro-F59E0B?style=for-the-badge&logoColor=white" alt="Kiro"> <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok"></p>
 
 ## Tech Stack
 
