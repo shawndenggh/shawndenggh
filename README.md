@@ -6,9 +6,9 @@
 
 <br />
 
-![Blog](https://img.shields.io/badge/Blog-shawndeng.tech-0ea5e9?style=for-the-badge&logo=hugo&logoColor=white)](https://shawndeng.tech)
-![GitHub](https://img.shields.io/badge/GitHub-shawndenggh-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shawndenggh)
-![Profile Views](https://komarev.com/ghpvc/?username=shawndenggh&style=for-the-badge&color=1d4ed8)](https://github.com/shawndenggh)
+[![Blog](https://img.shields.io/badge/Blog-shawndeng.tech-0ea5e9?style=for-the-badge&logo=hugo&logoColor=white)](https://shawndeng.tech)
+[![GitHub](https://img.shields.io/badge/GitHub-shawndenggh-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shawndenggh)
+[![Profile Views](https://komarev.com/ghpvc/?username=shawndenggh&style=for-the-badge&color=1d4ed8)](https://github.com/shawndenggh)
 
 </div>
 
