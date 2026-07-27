@@ -23,20 +23,17 @@ AI to move faster without losing control.
 
 ## AI Development Stack
 
-<p><img align="left" src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"><img align="left" src="https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Codex"><img align="left" src="https://img.shields.io/badge/GitHub%20Copilot-8957E5?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"><img align="left" src="https://img.shields.io/badge/Cursor-007ACC?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"><img align="left" src="https://img.shields.io/badge/Kiro-F59E0B?style=for-the-badge&logoColor=white" alt="Kiro"><img align="left" src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok"></p>
-<br clear="left">
+<img src="./assets/badges/ai-development-stack.svg" alt="Claude Code, Codex, GitHub Copilot, Cursor, Kiro, and Grok">
 
 ## Tech Stack
 
 ### Frontend & JavaScript
 
-<p><img align="left" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"><img align="left" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"><img align="left" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"><img align="left" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"></p>
-<br clear="left">
+<img src="./assets/badges/frontend-stack.svg" alt="TypeScript, React, Next.js, and Node.js">
 
 ### Backend Languages
 
-<p><img align="left" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"><img align="left" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"><img align="left" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></p>
-<br clear="left">
+<img src="./assets/badges/backend-languages.svg" alt="Java, PHP, and Python">
 
 ## Featured Work
 
