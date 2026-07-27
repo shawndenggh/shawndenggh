@@ -6,11 +6,7 @@
 
 <br />
 
-<p>
-  <a href="https://shawndeng.tech"><img src="https://img.shields.io/badge/Blog-shawndeng.tech-0ea5e9?style=for-the-badge&logo=hugo&logoColor=white" alt="Blog"></a>
-  <a href="https://github.com/shawndenggh"><img src="https://img.shields.io/badge/GitHub-shawndenggh-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://github.com/shawndenggh"><img src="https://komarev.com/ghpvc/?username=shawndenggh&style=for-the-badge&color=1d4ed8" alt="Profile Views"></a>
-</p>
+<a href="https://shawndeng.tech"><img src="https://img.shields.io/badge/Blog-shawndeng.tech-0ea5e9?style=for-the-badge&logo=hugo&logoColor=white" alt="Blog"></a>&nbsp;<a href="https://github.com/shawndenggh"><img src="https://img.shields.io/badge/GitHub-shawndenggh-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;<a href="https://github.com/shawndenggh"><img src="https://komarev.com/ghpvc/?username=shawndenggh&style=for-the-badge&color=1d4ed8" alt="Profile Views"></a>
 
 </div>
 
@@ -24,14 +20,7 @@ AI to move faster without losing control.
 
 <div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code">
-  <img src="https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Codex">
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-8957E5?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot">
-  <img src="https://img.shields.io/badge/Cursor-007ACC?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
-  <img src="https://img.shields.io/badge/Kiro-F59E0B?style=for-the-badge&logoColor=white" alt="Kiro">
-  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok">
-</p>
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code">&nbsp;<img src="https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Codex">&nbsp;<img src="https://img.shields.io/badge/GitHub%20Copilot-8957E5?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot">&nbsp;<img src="https://img.shields.io/badge/Cursor-007ACC?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">&nbsp;<img src="https://img.shields.io/badge/Kiro-F59E0B?style=for-the-badge&logoColor=white" alt="Kiro">&nbsp;<img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok">
 
 </div>
 
@@ -39,20 +28,11 @@ AI to move faster without losing control.
 
 ### Frontend & JavaScript
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-</p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">&nbsp;<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">&nbsp;<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
 
 ### Backend Languages
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-</p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">&nbsp;<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 
 ## Featured Work
 
