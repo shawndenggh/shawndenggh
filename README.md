@@ -11,11 +11,9 @@
     alt="Typing animation"
   />
 
-  <br />
-
-  <p align="center"><a href="https://shawndeng.tech"><img src="https://img.shields.io/badge/Blog-shawndeng.tech-0ea5e9?style=for-the-badge&logo=hugo&logoColor=white" alt="Blog"></a> <a href="https://github.com/shawndenggh"><img src="https://img.shields.io/badge/GitHub-shawndenggh-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> <a href="https://github.com/shawndenggh"><img src="https://komarev.com/ghpvc/?username=shawndenggh&style=for-the-badge&color=1d4ed8" alt="Profile Views"></a></p>
-
 </div>
+
+<p align="center"><a href="https://shawndeng.tech"><img src="https://img.shields.io/badge/Blog-shawndeng.tech-0ea5e9?style=for-the-badge&logo=hugo&logoColor=white" alt="Blog"></a> <a href="https://github.com/shawndenggh"><img src="https://img.shields.io/badge/GitHub-shawndenggh-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> <a href="https://github.com/shawndenggh"><img src="https://komarev.com/ghpvc/?username=shawndenggh&style=for-the-badge&color=1d4ed8" alt="Profile Views"></a></p>
 
 ## About
 
