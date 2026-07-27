@@ -13,7 +13,7 @@
 
 </div>
 
-<p align="center"><kbd><a href="https://shawndeng.tech"><img src="https://img.shields.io/badge/Blog-shawndeng.tech-0ea5e9?style=for-the-badge&logo=hugo&logoColor=white" alt="Blog"></a></kbd><kbd><a href="https://github.com/shawndenggh"><img src="https://img.shields.io/badge/GitHub-shawndenggh-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></kbd><kbd><a href="https://github.com/shawndenggh"><img src="https://komarev.com/ghpvc/?username=shawndenggh&style=for-the-badge&color=1d4ed8" alt="Profile Views"></a></kbd></p>
+<p align="center"><kbd><a href="https://shawndeng.tech"><img align="left" src="https://img.shields.io/badge/Blog-shawndeng.tech-0ea5e9?style=for-the-badge&logo=hugo&logoColor=white" alt="Blog"></a><a href="https://github.com/shawndenggh"><img align="left" src="https://img.shields.io/badge/GitHub-shawndenggh-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a><a href="https://github.com/shawndenggh"><img align="left" src="https://komarev.com/ghpvc/?username=shawndenggh&style=for-the-badge&color=1d4ed8" alt="Profile Views"></a></kbd></p>
 
 ## About
 
